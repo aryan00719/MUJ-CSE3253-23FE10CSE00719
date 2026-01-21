@@ -1,3 +1,4 @@
 # Git Class Work
-Student: Aryan Mishra
-Enrollment: 23FE10CSE00719
+
+Name: Aryan Mishra
+Registration Number: 23FE10CSE00719
